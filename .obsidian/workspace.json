@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "96b13c0e40235e60",
+        "id": "467efa5bdf4688bb",
         "type": "tabs",
         "children": [
           {
-            "id": "fcf8bcc748306c52",
+            "id": "7df733248c909acf",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "icon": "lucide-file",
+              "title": "새 탭"
             }
           }
         ]
@@ -70,8 +70,7 @@
               "title": "북마크"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -162,8 +161,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a9bc761ab32d8a00",
+  "active": "7df733248c909acf",
   "lastOpenFiles": [
+    "git/Java의 비밀.md",
     "git/GitHub Profile.md",
     "git/Local.md",
     "git/Overview.md",
